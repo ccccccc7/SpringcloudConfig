@@ -2,3 +2,5 @@ spring:
   feign:
     hystrix:
       enabled: true
+version:
+  19.1.1
